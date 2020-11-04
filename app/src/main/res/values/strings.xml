@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Q2B</string>
+    <string name="user_name">test</string>
+    <string name="user_password">passwd</string>
+</resources>
